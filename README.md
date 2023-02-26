@@ -20,7 +20,7 @@ align='right' height='320' width='320'/>
 <br>
 
 
-<h2 align='center'>I love what I do ❤️<br><br>I am a insightful student, passionate Software Developer and an avid Tech enthusiast👨‍💻</h2>
+<h2 align='center'>&nbsp;I love what I do ❤️<br><br>I am a insightful student, passionate Software Developer and an avid Tech enthusiast👨‍💻</h2>
 
 <br><br><br>
 
