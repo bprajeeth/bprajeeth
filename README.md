@@ -12,10 +12,10 @@
 </p>
 <img 
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY2NzU4NmRiMjgxOTIyMzFmZGQ1Yzg4OGY0NGNjNzU3MzJmMjIzNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
-align='left' height='300' width='300'/>
+align='left' height='320' width='320'/>
 <img 
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc4Nzc1ODc2YTBlMDE0NDQ4N2VmMTJmZjM0YmZkMmVkNTg0NTkwYyZjdD1n/USV0ym3bVWQJJmNu3N/giphy.gif"
-align='right' height='300' width='300'/>
+align='right' height='320' width='320'/>
 <br>
 <br>
 
@@ -54,9 +54,8 @@ align='right' height='300' width='300'/>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <br><br>
-<p align='center'> Check out some my stats 😁</p>
-<br><br><br><br>
-
+<p align='center'> Check out some of my stats 😁</p>
+<br><br><br><br><br>
 <h1 align='center'>Contact Me 📭</h1>   
 <p align='center'>
 <a href="https://www.linkedin.com/in/bprajeeth/">
