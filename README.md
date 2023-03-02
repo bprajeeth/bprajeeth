@@ -9,22 +9,25 @@
 <img src='https://img.shields.io/badge/MADE%20WITH-MARKDOWN-red?style=for-the-badge'></img>
 <img src='https://img.shields.io/badge/-He%2FHim-orange?style=for-the-badge'></img>
 <img src='https://img.shields.io/badge/Created%20with-%E2%99%A5-red?style=for-the-badge'></img>
+<br><br>
 </p>
-<img 
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY2NzU4NmRiMjgxOTIyMzFmZGQ1Yzg4OGY0NGNjNzU3MzJmMjIzNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
-align='left' height='320' width='320'/>
+<p align='center'>
+I love what I do ❤️<br><br>I am a insightful student, passionate Software Developer and an avid Tech enthusiast👨‍💻
+<p align='center'>
 <img 
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc4Nzc1ODc2YTBlMDE0NDQ4N2VmMTJmZjM0YmZkMmVkNTg0NTkwYyZjdD1n/USV0ym3bVWQJJmNu3N/giphy.gif"
-align='right' height='320' width='320'/>
+align='center' height='320' width='320'/>
+<img 
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY2NzU4NmRiMjgxOTIyMzFmZGQ1Yzg4OGY0NGNjNzU3MzJmMjIzNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
+align='center' height='320' width='320'/>
 <br>
 <br>
-
-
-<h2 align='center'>&nbsp;I love what I do ❤️<br><br>I am a insightful student, passionate Software Developer and an avid Tech enthusiast👨‍💻</h2>
-
-<br><br><br>
+</p>
 
 ---
+
+<br>
+
 
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=python,cpp,vscode,github,html,css,javascript,react,bootstrap,c,git,flask,django,nodejs,tailwind" />
